@@ -49,6 +49,7 @@ CREATE TABLE TBL_ANIMAL(
 	주소NN
 	이메일
 	생일
+
 */
 /*
  * <물리적 설계>
